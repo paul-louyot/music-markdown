@@ -28,9 +28,7 @@ l7: Ya entendi    como asi
 
 c8:    D#      D          C
 l8: Tu eres un padre para mi
-
 (x2)
-
 -> + freestyle avec 2e variante
 
 c9:      C          D#       C       D
