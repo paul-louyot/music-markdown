@@ -15,7 +15,7 @@ l3: Preguntando eschuchando
 c4: D#  D      C
 l4: Caminando asi
 
-(repeat)
+(x2)
 
 c5:    C      D#     C       D
 l5: Yo veo su cara estrella azul
