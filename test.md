@@ -43,6 +43,7 @@ l11: Calmando a mis hermanos con la fuerza del amor
 c12:   D#    D        C
 l12: aqui en este jardin
 
+(x2)
 
 c13: C       D#         C       D
 l13: Madre o madre me conoces a mi
@@ -56,3 +57,4 @@ l15: Gracias amor por la vida aqi
 c16:    D#  D  C
 l16: Yo canto asi
 
+(x2)
