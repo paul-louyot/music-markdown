@@ -3,35 +3,65 @@
 
 # Rainha
 
-Iiiiiii Em Am
-Iiiiiii
+Strumming pattern: ↓ ↓↑↓↑↓ ↓↑↓↑↓ ↓↑↓↑↓ ↓↑↓↑
 
-Iiiiii Dm Am
-Iiiiii Em Am
+c1: Am Em
+l1: Iiiiiii
 
-Como e linda Am
-Rainha Em
+c1: Am Em
+l1: Iiiiiii
 
-Cuanto amor em seu coracao Dm Am
-Cuanta luz em sua alma Em Am
+c1: Dm Am
+l1: Iiiiii
 
-As suas maos tem nos guiado G Am
-As suas maos tem nos guiado G Am
+c1: Em Am
+l1: Iiiiii
 
-Oh minha mae G
-Oh mae Rainha Am
-Oh minha mae G
-Oh mae de luz Dm
+c1: Am           Em
+l1: Como e linda Rainha
 
-Iiiiiiieeeee Am Em
-Iiiiiiieeeee Am Em
+c1: Am           Em
+l1: Como e linda Rainha
 
-Jurema oh Jurema Dm Am
-Jurema oh Jurema Em Am
-As suas maos tem nos guiado G Am
-As suas maos tem nos guiado G Am
+c1: Dm                 Am
+l1: Cuanto amor em seu coracao
 
-Oh minha mae G
-Oh mae Rainh Am
-Oh minha mae G
-Oh mae de luz Dm
+c1: Em                Am
+l1: Cuanta luz em sua alma
+
+c1: G                    Am
+l1: As suas maos tem nos guiado
+
+c1: G                    Am
+l1: As suas maos tem nos guiado
+
+c1: G            Am
+l1: Oh minha mae Oh mae Rainha
+
+c1: G                      Am
+l1: Oh minha mae Oh mae de luz
+
+c1: Am     Em
+l1: Iiiiiiieeeee
+
+c1: Am     Em
+l1: Iiiiiiieeeee
+
+c1: Dm            Am
+l1: Jurema oh Jurema
+
+c1: Em            Am
+l1: Jurema oh Jurema
+
+c1: G                    Am
+l1: As suas maos tem nos guiado
+
+c1: G                    Am
+l1: As suas maos tem nos guiado
+
+c1: G            Am
+l1: Oh minha mae Oh mae Rainha
+
+c1: G                      Am
+l1: Oh minha mae Oh mae de luz
+
