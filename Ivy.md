@@ -10,11 +10,13 @@ c1: C Dm Am Dm
 
 [Chorus]
 
-c1:
-l1: I thought that I was dreamin' when you said you love me
+c1: C                          Dm                         Am        Dm
+l1:       I thought that I was dreamin' when you said you love me
 
+c1:              C
 l1: The start of nothin'
 
+c1:                    Dm                          Am       Dm
 l1: I had no chance to prepare, I couldn't see you comin'
 
 l1: The start of nothin'
